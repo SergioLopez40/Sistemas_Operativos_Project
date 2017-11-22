@@ -1,0 +1,10 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   bra
+EDAD:     34
+RAZA:     rwe
+ESTATURA: 432
+PESO:     43.000000
+SEXO:     h
+No.HISTORIA: 50689
+---------------COMENTARIOS VETERINARIA--------------- 
+1409297920

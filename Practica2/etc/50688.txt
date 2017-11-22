@@ -1,0 +1,10 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Diego
+EDAD:     25
+RAZA:     Humano
+ESTATURA: 1
+PESO:     0.500000
+SEXO:     H
+No.HISTORIA: 50688
+---------------COMENTARIOS VETERINARIA--------------- 
+-46974576014092889441409293808

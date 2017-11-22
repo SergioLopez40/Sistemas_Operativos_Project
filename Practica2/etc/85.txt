@@ -1,0 +1,10 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Tote
+EDAD:     7
+RAZA:     Scottish 
+ESTATURA: 25
+PESO:     16.000000
+SEXO:     H
+No.HISTORIA: 85
+---------------COMENTARIOS VETERINARIA--------------- 
+-469750432

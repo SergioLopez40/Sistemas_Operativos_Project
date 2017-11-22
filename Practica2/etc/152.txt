@@ -1,0 +1,10 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Quixu
+EDAD:     2
+RAZA:     PastorInglés
+ESTATURA: 79
+PESO:     3.000000
+SEXO:     M
+No.HISTORIA: 152
+---------------COMENTARIOS VETERINARIA--------------- 
+-469755136

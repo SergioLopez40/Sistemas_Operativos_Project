@@ -1,0 +1,10 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   fdfsd
+EDAD:     654
+RAZA:     gfdgd
+ESTATURA: 765
+PESO:     654.000000
+SEXO:     h
+No.HISTORIA: 1
+---------------COMENTARIOS VETERINARIA--------------- 
+-201315296872418032

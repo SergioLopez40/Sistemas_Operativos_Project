@@ -1,0 +1,10 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Moski
+EDAD:     7
+RAZA:     Labrador
+ESTATURA: 30
+PESO:     7.000000
+SEXO:     M
+No.HISTORIA: 50687
+---------------COMENTARIOS VETERINARIA--------------- 
+872427008
