@@ -1,0 +1,12 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Hiru
+EDAD:     17
+RAZA:     BassetHound 
+ESTATURA: 46
+PESO:     17.000000
+SEXO:     H
+No.HISTORIA: 1
+---------------COMENTARIOS VETERINARIA--------------- 
+134224640
+fkjasdkfja
+jdlkajfñldk

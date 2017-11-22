@@ -1,0 +1,9 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Bombom
+EDAD:     11
+RAZA:     Alano
+ESTATURA: 44
+PESO:     26.000000
+SEXO:     M
+No.HISTORIA: 45
+---------------COMENTARIOS VETERINARIA--------------- 

@@ -1,0 +1,11 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Beru
+EDAD:     11
+RAZA:     WaterSpaniel 
+ESTATURA: 34
+PESO:     28.000000
+SEXO:     M
+No.HISTORIA: 100
+---------------COMENTARIOS VETERINARIA--------------- 
+estamos guardando
+28003392

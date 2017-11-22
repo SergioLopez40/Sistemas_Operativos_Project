@@ -1,0 +1,9 @@
+----------------HISTORIA CLINICA-------------------- 
+NOMBRE:   Clodovaldo
+EDAD:     3
+RAZA:     Dálmata 
+ESTATURA: 44
+PESO:     4.000000
+SEXO:     M
+No.HISTORIA: 500
+---------------COMENTARIOS VETERINARIA--------------- 
